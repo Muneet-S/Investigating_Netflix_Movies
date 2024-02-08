@@ -2,6 +2,7 @@
 
 Welcome to my Netflix Data Analysis project! In this project, I've applied my data science skills to explore and analyze a dataset of Netflix movies, uncovering interesting trends and insights.
 
+Netflix Data Analysis with Python is a recent project that involved the analysis of 5500 Netflix movies using Python. The project resulted in 30% faster preparation and improved quality, and identified a significant decreasing movie length trend via regression with 95% confidence, which informed the content strategy. The team also leveraged Matplotlib for impactful plots, resulting in a 20% project enhancement, and presented a professional report that accelerated decision-making.
 ## Project Overview
 
 - **Objective**: To investigate changes in Netflix movie durations over time and understand the impact of different genres on movie lengths.
